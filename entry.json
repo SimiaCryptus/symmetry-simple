@@ -1,19 +1,12 @@
 {
     "id": "symmetry-simple",
     "title": "Space-Color Symmetry",
-    "description": "A pixel canvas where symmetry doesn't just mirror your strokes — it rewires the diffusion graph. Heat flows along symmetry orbits, producing kaleidoscope dynamics on a quotient-like manifold.",
-    "tags": [
-        "symmetry",
-        "diffusion",
-        "symmetry-groups",
-        "kaleidoscope",
-        "generative-art",
-        "heat-equation",
-        "interactive"
-    ],
-    "category": "labs",
+    "pitch": "A pixel canvas where symmetry doesn't just mirror your strokes — it rewires the diffusion graph. Heat flows along symmetry orbits, producing kaleidoscope dynamics on a quotient-like manifold.",
+    "category": "lab",
     "href": "index.html",
     "readme": "README.md",
     "video": "/videos/Symmetry_Diffusion.mp4",
-    "order": 9
+    "order": 9,
+    "section": "featured",
+    "icon": "SY"
 }
